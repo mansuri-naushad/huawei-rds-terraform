@@ -15,13 +15,13 @@ variable "rds_password" {
 }
 
 variable vpc_id {
-   default = "will be apply"
+   default = ""
 }
 
 variable subnet_id {
-   default = "will be apply"
+   default = ""
 }
 
 variable vpc_cidr {
-   default = "will be apply"
+   default = ""
 }
